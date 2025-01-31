@@ -17,4 +17,3 @@
     nessus
 
     # now you can run or turn on/of nessus in any repository
-    
